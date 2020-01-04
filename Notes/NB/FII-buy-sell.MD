@@ -14,3 +14,7 @@ Foreign brokerage reports from multiple groups to get idea on individual stocks 
 
 company's quarterly reports and share holding pattern if there is change in FII stakes
 seach for FII buying, FII selling, FII stocks keywords for news
+
+
+
+(https://www.youtube.com/watch?v=9IsaKLamp9g&t=1036s)
